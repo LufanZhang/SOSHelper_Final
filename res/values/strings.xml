@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SOS </string>
+    <string name="text_ack_msg">Readed</string>
+    <string name="text_delivered_msg">Arrived</string>
+    <string name="back">Back</string>
+    <string name="save">Save</string>
+    <string name="button_pushtotalk">Press and talk</string>
+    <string name="button_send">Send</string>
+    <string name="attach_smile">Emotions</string>
+    <string name="attach_picture">Picture</string>
+    <string name="attach_take_pic">Camera</string>
+    <string name="attach_location">Location</string>
+    <string name="attach_file">File</string>
+    <string name="attach_voice_call">Voice call</string>
+    <string name="user_card">Name card</string>
+    <string name="move_up_to_cancel">Slide up to cancel</string>
+    <string name="release_to_cancel">RElease to cance</string>
+    <string name="send_fail">Send fail</string>
+    <string name="delete_message">Delete message</string>
+    <string name="copy_message">Copy message</string>
+    <string name="delete_voice">Delete voice</string>
+    <string name="delete_video">Delete video</string>
+    <string name="delete">Delete</string>
+    <string name="resend">Resend</string>
+    <string name="confirm_resend">Confirm resend?</string>
+    <string name="connect_failuer_toast">Connect failuer</string>
+    <string name="network_unavailable">Network unavilable, please check.</string>
+    <string name="copy">Copy</string>
+    <string name="forward">Forward</string>
+    <string name="button_logout">Logout</string>
+    <string name="button_uploadlog">Uploading log</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="prompt">Notice</string>
+    <string name="clear_records">Clear records</string>
+    <string name="clear_all_records">Clear all records?</string>
+    <string name="location_recv">[%1$sposition]</string>
+    <string name="location_message">Location message</string>
+    <string name="recording_video">Recording video</string>
+       <string name="location_prefix">[My location]</string>
+    <string name="voice">[Voice]</string>
+    <string name="picture">[Picture]</string>
+    <string name="video">[Video]</string>
+    <string name="file">[File]</string>
+    <string name="voice_call">[Voice call]</string>
+    
+      <string name="button_cancel">Cancel</string>
+    <string name="button_save">Save</string>
+    <string name="button_search">Search</string>
+    <string name="button_add">Add</string>
+    <string name="search_header">S</string>
+    
+    <string name="network_isnot_available">Network unavailable</string>
+    <string name="recoding_fail">Recording fail, please try again</string>
+    <string name="select_contacts">Select contacts</string>
+    <string name="confirm_forward_to">Confirm forward to：%1$s ?</string>
+      <string name="logout">Logout</string>
+    <string name="logout_hint">Logout won\'t delete records.</string>
+    <string name="exit_group_hint">When logout, won\'t receive any message from this group.</string>
+    <string name="dissolution_group_hint">If quit, this chat group will be deleted</string>
+      <string name="exit_group">Quit</string>
+      <string name="connect_conflict">Same account has login on other device.</string>
+      
+</resources>
